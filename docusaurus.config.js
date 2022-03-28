@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'PlatON',
   tagline: 'PlatON',
-  url: 'https://dugusanfeng.github.io',
+  url: 'https://dipolexchange.github.io',
   baseUrl: '/docs/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -96,7 +96,7 @@ const config = {
             items: [
               {
                 label: 'Dipole intro',
-                to: '/docs/DipoleSwap intro',
+                to: '/docs/intro',
               },
               {
                 label: 'Products',
