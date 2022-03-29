@@ -1,4 +1,5 @@
 ---
-id: Factory v2
+id: factory
+title: Factory
 sidebar_position: 1
 ---

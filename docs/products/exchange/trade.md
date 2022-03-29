@@ -1,5 +1,6 @@
 ---
-id: Token Swaps
+id: trade
+title: Token Swaps
 sidebar_position: 1
 ---
 

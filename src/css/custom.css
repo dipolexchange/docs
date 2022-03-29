@@ -207,3 +207,8 @@ div[class^='announcementBar_'] {
     height: 100%;
   }
 }
+
+img[src*='#center'] {
+  display: block;
+  margin: auto;
+}

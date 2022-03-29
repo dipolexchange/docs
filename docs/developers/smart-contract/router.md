@@ -1,4 +1,5 @@
 ---
-id: Router v2
+id: router
+title: Router
 sidebar_position: 2
 ---

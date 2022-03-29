@@ -100,11 +100,11 @@ const config = {
               },
               {
                 label: 'Products',
-                to: '/docs/products/exchange/Token%20Swaps',
+                to: '/docs/products/exchange/trade',
               },
               {
                 label: 'Developers',
-                to: '/docs/developers/Bug%20Bounty',
+                to: '/docs/developers/bug-bounty',
               },
             ],
           },
