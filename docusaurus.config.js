@@ -27,7 +27,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-              'https://github.com/dipolexchange/docs/tree/main',
+              'https://github.com/dipolexchange/docs/tree/main/',
         },
         // blog: {
         //   showReadingTime: true,
@@ -100,7 +100,7 @@ const config = {
               },
               {
                 label: 'Products',
-                to: '/docs/Products/exchange/Token%20Swaps',
+                to: '/docs/products/exchange/Token%20Swaps',
               },
               {
                 label: 'Developers',
