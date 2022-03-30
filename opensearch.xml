@@ -4,7 +4,7 @@
   <ShortName>PlatON</ShortName>
   <Description>Search PlatON</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://dipolexchange.github.io/docs/img/platon.svg</Image>
+  <Image width="16" height="16" type="image/x-icon">https://dipolexchange.github.io/docs/img/logo.svg</Image>
   <Url type="text/html" method="get" template="https://dipolexchange.github.io/docs/search?q={searchTerms}"/>
   <Url type="application/opensearchdescription+xml" rel="self" template="https://dipolexchange.github.io/docs/opensearch.xml" />
   <moz:SearchForm>https://dipolexchange.github.io/docs/</moz:SearchForm>
