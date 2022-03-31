@@ -16,7 +16,7 @@ You will also need the PRC20 version of any token you want to trade, stake etc. 
 You can go a few ways about converting your tokens to PRC20, but here are the ones we recommend:
 
 <Tabs>
-  <TabItem value="apple" label="PlatON Bridge" default>
+  <TabItem value="Bridge" label="PlatON Bridge" default>
 
 [**PlatON Bridge**](https://10.2.13.11/dashboard) _**_ - You don't need an account, or to register etc.
 

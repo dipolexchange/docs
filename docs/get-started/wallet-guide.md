@@ -53,7 +53,7 @@ This comparison table gives an overview of the most popular mobile wallets used 
 | Interact with BscScan (for advanced users!)              | ➖            | ✅        |
 
 <Tabs>
-  <TabItem value="apple" label="ATON Wallet" default>
+  <TabItem value="ATON Wallet" label="ATON Wallet" default>
     ATON Wallet is a wallet for smart devices. It supports DApps, and in-wallet staking.
 
 **Pros:**
@@ -74,7 +74,7 @@ This comparison table gives an overview of the most popular mobile wallets used 
 [**Download ATON Wallet**](https://trustwallet.com) (Automatically detects device)\
 [**ATON Wallet Setup Guide**](https://www.binance.com/en/blog/421499824684901157/How-to-Set-Up-and-Use-Trust-Wallet-for-Binance-Smart-Chain)
   </TabItem>
-  <TabItem value="orange" label="MetaMask">
+  <TabItem value="MetaMask" label="MetaMask">
 MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) and PRC20 (PlatON Networks).
 
 **Pros:**
