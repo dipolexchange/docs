@@ -101,14 +101,14 @@ Farming will bring you LAT rewards over time. You can collect these rewards and 
 
 You can harvest your Farm and Syrup Pool rewards together from the Home page. If you'd like to collect your farming rewards only, follow along.
 
-To collect your rewards, you’ll need to visit your chosen Farm and collect the CAKE waiting for you.
+To collect your rewards, you’ll need to visit your chosen Farm and collect the LAT waiting for you.
 
 1\. Return to the Farms page [here](https://dipoleswap.exchange/farms).
-2\. Find the Farm you staked your LP Tokens in, and click the row to view details. You should see an estimate of your rewards under “Cake earned”.
+2\. Find the Farm you staked your LP Tokens in, and click the row to view details. You should see an estimate of your rewards under “LAT earned”.
 
 ![](../../images/farm-harvest.jpg#center)
 
-3\. Click the **Harvest** button and confirm the action in your wallet. After a short wait, the CAKE will be claimed to your wallet for you to use as you like.
+3\. Click the **Harvest** button and confirm the action in your wallet. After a short wait, the LAT will be claimed to your wallet for you to use as you like.
 
 ![](../../images/farm-harvest-confirm.jpg#center)
 

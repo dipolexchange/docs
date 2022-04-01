@@ -6,7 +6,7 @@ sidebar_position: 1
 ---
 :::tip
 
-PancakeSwap helps you make the most out of your crypto in two ways:
+DipoleSwap helps you make the most out of your crypto in two ways:
 Trade and Earn.
 
 :::
@@ -14,11 +14,11 @@ Trade and Earn.
 ## Trade
 
 ### The people's choice
-DipoleSwap is the leading decentralized exchange on PlatON Smart Chain, with the highest trading volumes in the market (sources: 1 2).
+DipoleSwap is the leading decentralized exchange on PlatON Network, with the highest trading volumes in the market (sources: 1 2).
 
 ### Low fees
 
-Why pay more? DipoleSwap runs on PlatON Smart Chain, a blockchain with much lower transaction costs than Ethereum or Bitcoin.
+Why pay more? DipoleSwap runs on PlatON Network, a blockchain with much lower transaction costs than Ethereum or Bitcoin.
 Trading fees are lower than other top decentralized exchanges too, so that's a double win for you!
 
 ### Decentralized

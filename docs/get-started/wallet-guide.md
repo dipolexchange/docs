@@ -7,7 +7,7 @@ sidebar_position: 1
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-To get started on PancakeSwap, the first thing you'll need is to set up a wallet that supports BNB Smart Chain (BSC). Wallets are available both on desktop computers and on smartphone devices. You'll need to choose the wallet that fits your needs best.
+To get started on DipoleSwap, the first thing you'll need is to set up a wallet that supports PlatON Network. Wallets are available both on desktop computers and on smartphone devices. You'll need to choose the wallet that fits your needs best.
 
 :::danger
 When you're setting up a wallet, be sure to:
@@ -42,11 +42,11 @@ Smartphone/Mobile wallets allow you to access your crypto almost anywhere. Walle
 
 ### Which mobile wallet should I choose?
 
-This comparison table gives an overview of the most popular mobile wallets used with PancakeSwap.
+This comparison table gives an overview of the most popular mobile wallets used with DipoleSwap.
 
 |                                                          | ATON         | MetaMask | 
 | -------------------------------------------------------- | ------------ | -------- | 
-| BNB Smart Chain support                                  | ✅            | ⚠️       | 
+| PlatON Network support                                  | ✅            | ⚠️       | 
 | Built-in DApp browser                                    | ✅            | ➖        |
 | Hardware wallet compatible                               | ➖            | ✅        |
 | Open source (auditability)                               | ✅            | ✅        |
@@ -91,7 +91,7 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 **Cons:**
 
 * Longer setup time than other options
-* Additional steps needed to use with BNB Smart Chain and PancakeSwap
+* Additional steps needed to use with PlatON Network and DipoleSwap
 * Extra information and settings may confuse beginners
 
 [**Download MetaMask**](https://metamask.io/download.html) (Automatically detects device)\

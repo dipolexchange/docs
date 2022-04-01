@@ -19,7 +19,7 @@ See for yourself:
     * The chefs use multisig for all contracts.
     * Our contracts’ time-lock gives you peace of mind.
 
-## How can I stake CAKE?
+## How can I stake LAT?
 
 You can stake your LAT in DipoleSwap Syrup Pools. Visit the [Syrup Pools page](https://dipoleswap.exchange/pools).
 

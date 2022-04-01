@@ -8,14 +8,14 @@ Trading on DipoleSwap is very easy compared to most exchanges. You aren't going 
 
 ## Getting set up to trade
 
-Before you can trade, you will need a PlatON Smart Chain-compatible wallet. You can learn how to get one [here](/docs/get-started/wallet-guide). You will also need to have some PRC20 tokens to trade with. You can learn how to get some [here](/docs/get-started/prc20-guide).
+Before you can trade, you will need a PlatON Network-compatible wallet. You can learn how to get one [here](/docs/get-started/wallet-guide). You will also need to have some PRC20 tokens to trade with. You can learn how to get some [here](/docs/get-started/prc20-guide).
 
 ## Trading on the DipoleSwap exchange
 
 1. Go to the exchange page [here](https://dipoleswap.exchange/swap).
 
    
-2. Unlock your PlatON Smart Chain-compatible wallet by clicking Unlock Wallet (you can also Connect in the top right-hand corner). If you haven't yet connected your wallet to DipoleSwap, you can view the guide to [here](/docs/get-started/connection-guide).
+2. Unlock your PlatON Network-compatible wallet by clicking Unlock Wallet (you can also Connect in the top right-hand corner). If you haven't yet connected your wallet to DipoleSwap, you can view the guide to [here](/docs/get-started/connection-guide).
 
 ![unlock](../../images/unlock.jpg#center)
 

@@ -6,9 +6,9 @@ sidebar_position: 1
 
 # How to Stake in Syrup Pools
 
-Staking in [Syrup Pools](https://dipolexchange.github.io/doc/products/syrup-pool) lets you earn CAKE or other tokens while you sleep!
+Staking in [Syrup Pools](https://dipolexchange.github.io/doc/products/syrup-pool) lets you earn LAT or other tokens while you sleep!
 
-It's simpler than farming with PancakeSwap's Yield Farms because unlike the Farms, you only need to stake **one token** to start earning: usually CAKE.
+It's simpler than farming with DipoleSwap's Yield Farms because unlike the Farms, you only need to stake **one token** to start earning: usually LAT.
 
 ## **Getting started with Syrup Pool staking**
 
@@ -48,11 +48,11 @@ Syrup Pools let you stake your LAT to earn other tokens. Make sure you check the
 
 ![](../../images/pool-staked-detail.jpg#center)
 
-### **Adding and removing CAKE from a pool**
+### **Adding and removing LAT from a pool**
 
 You can easily add more LAT to a Syrup Pool, or move some LAT to a more profitable pool. Here’s how you can move your staked LAT.
 
-1\. Click the **-** to take some CAKE out of a pool, or the **+** to add more to the pool.
+1\. Click the **-** to take some LAT out of a pool, or the **+** to add more to the pool.
 
 ![](../../images/pool-stake-add-or-remove.jpg#center)
 
