@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/docs/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/logo.svg',
+  favicon: 'img/logo.png',
   organizationName: 'dipolexchange', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
 
@@ -66,10 +66,10 @@ const config = {
         // }
       },
       navbar: {
-        // title: 'DipoleSwap',
+        title: 'DipoleSwap',
         logo: {
           alt: 'DipoleSwap',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
           href: '/docs/'
         },
         items: [
