@@ -1,5 +1,5 @@
 ---
 id: telegram
 title: Social Accounts & Communities
-sidebar_position: 2
+sidebar_position: 3
 ---

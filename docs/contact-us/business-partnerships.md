@@ -1,5 +1,5 @@
 ---
 id: business-partnerships
 title: Business Partnerships
-sidebar_position: 1
+sidebar_position: 2
 ---
