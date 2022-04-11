@@ -47,10 +47,10 @@ This comparison table gives an overview of the most popular mobile wallets used 
 |                                                          | ATON         | MetaMask | 
 | -------------------------------------------------------- | ------------ | -------- | 
 | PlatON Network support                                  | ✅            | ⚠️       | 
-| Built-in DApp browser                                    | ✅            | ➖        |
+| Built-in DApp browser                                    | ➖            | ➖        |
 | Hardware wallet compatible                               | ➖            | ✅        |
-| Open source (auditability)                               | ✅            | ✅        |
-| Interact with BscScan (for advanced users!)              | ➖            | ✅        |
+| Open source (auditability)                               | ➖            | ✅        |
+| Interact with PlatScan (for advanced users!)              | ➖            | ➖        |
 
 <Tabs>
   <TabItem value="ATON Wallet" label="ATON Wallet" default>
