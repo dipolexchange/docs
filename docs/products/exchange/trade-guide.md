@@ -13,7 +13,6 @@ Before you can trade, you will need a PlatON Network-compatible wallet. You can 
 ## Trading on the DipoleSwap exchange
 
 1. Go to the exchange page [here](https://dipoleswap.exchange/swap).
-
    
 2. Unlock your PlatON Network-compatible wallet by clicking Unlock Wallet (you can also Connect in the top right-hand corner). If you haven't yet connected your wallet to DipoleSwap, you can view the guide to [here](/docs/get-started/connection-guide).
 
