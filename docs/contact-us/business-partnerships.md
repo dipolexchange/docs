@@ -5,7 +5,7 @@ sidebar_position: 2
 ---
 
 ## Farms and Syrup Pools
-
+![](../images/business.png)
 Farms incentivize users to provide liquidity for your trading pair by distributing LAT to your pair's LP Token holders.
 
 Syrup Pools are a way of distributing your tokens to PlatON users who stake LAT in the pool.
