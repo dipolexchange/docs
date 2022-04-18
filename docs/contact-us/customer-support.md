@@ -5,7 +5,7 @@ sidebar_position: 4
 ---
 
 ## There is NO customer support for DiopleSwap.
-
+![](../images/customer.png)
 If you're experiencing issues,
 
 1.First check the [troubleshooting page](/docs/help/troubleshooting) for your error code
