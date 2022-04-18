@@ -57,7 +57,7 @@ See for yourself:
     
 + Transparent:
     + We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.
-    + Our contracts are verified on BscScan so you know that what you see is what you get: 1 2 3 4 5
+    + Our contracts are verified on PlatScan so you know that what you see is what you get: 1 2 3 4 5
 
 + Security best practices:
     + The chefs use multisig for all contracts.

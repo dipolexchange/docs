@@ -47,7 +47,7 @@ To connect MetaMask to DipoleSwap follow the steps below.
 
 **RPC Url:** [https://samurai.platon.network](https://samurai.platon.network)
 
-**Chain ID:** 100
+**Chain ID:** 210425
 
 **Symbol:** LAT
 
@@ -60,8 +60,6 @@ To connect MetaMask to DipoleSwap follow the steps below.
 7. Type "DipoleSwap" into the search field and start the search. The top result will be the DipoleSwap exchange. Tap to enter it.
 
 8. You wallet will ask you to connect. Tap **Connect** to connect to DipoleSwap.
-
-![](../images/browser.png)
 
 ### Resources
 

@@ -12,8 +12,6 @@ Unlike Syrup Pools, Farms require you to stake **two tokens** to get LP Tokens, 
 
 :::warning
 Yield farming can give better rewards than Syrup Pools, but it comes with a risk of **Impermanent Loss**. It’s not as scary as it sounds, but it is worth learning about the concept before you get started.
-
-Check out this great [article about Impermanent Loss ](https://academy.binance.com/en/articles/impermanent-loss-explained)from PlatON Academy to learn more.
 :::
 
 ## Getting prepared

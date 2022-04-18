@@ -4,8 +4,7 @@ title: Using DiopleSwap without Centrallzed Exchange
 sidebar_position: 3
 ---
 
-###### You don't need an account with Binance, Coinbase, Kraken, Huobi, OKEx or any other centralized exchange to start using PancakeSwap!
-
+###### You don't need an account with Binance, Coinbase, Kraken, Huobi, OKEx or any other centralized exchange to start using DipoleSwap!
 ---
 
 DipoleSwap is a decentralized application. That means, unlike other centralized platforms, you don't need to register account to use it... you just need a crypto wallet. So how can you get crypto onto DipoleSwap without using a centralized exchange?
@@ -42,8 +41,8 @@ The following operation instructions need to manually add the PlatON network to 
 >
 ```
 Network Name：PlatON Mainnet
-RPC URL：https://openapi.platon.network/rpc
-Chain ID：100
+RPC URL：https://samurai.platon.network
+Chain ID：210425
 Currency  Symbol：LAT
 Block Explorer URL：https://scan.platon.network
 ```
@@ -61,8 +60,8 @@ Block Explorer URL：https://scan.platon.network
 >
 ```
 Network Name：PlatON Mainnet
-RPC URL：https://openapi.platon.network/rpc
-Chain ID：100
+RPC URL：https://samurai.platon.network
+Chain ID：210425
 Currency  Symbol：LAT
 Block Explorer URL：https://scan.platon.network
 ```

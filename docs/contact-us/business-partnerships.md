@@ -10,7 +10,7 @@ Farms incentivize users to provide liquidity for your trading pair by distributi
 
 Syrup Pools are a way of distributing your tokens to PlatON users who stake LAT in the pool.
 
-These two products go hand-in-paw on PancakeSwap: when a project provides their tokens for a Syrup Pool, we'll also create a Farm. If you're looking to distribute tokens and incentivize liquidity, get in touch.
+These two products go hand-in-paw on DipoleSwap: when a project provides their tokens for a Syrup Pool, we'll also create a Farm. If you're looking to distribute tokens and incentivize liquidity, get in touch.
 
 Apply to run a Farm or Syrup Pool
 

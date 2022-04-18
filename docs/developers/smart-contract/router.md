@@ -15,13 +15,13 @@ For more in-depth information on the core contract logic, read the [Uniswap v2 C
 
 `function WETH() external pure returns (address);`
 
-Returns the canonical address for [PlatON: WLAT token](https://bscscan.com/address/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c) (WETH being a vestige from Ethereum network origins).
+Returns the canonical address for [PlatON: WLAT token](https://scan.platon.network/contract-detail?address=0x02406D561069cBed27eF8Ea20AFD41779A90e2Bf) (WETH being a vestige from Ethereum network origins).
 
 ### factory
 
 `function factory() external pure returns (address);`
 
-Returns the canonical address for [DipoleFactory](https://devnetscan.platon.network/contract-detail?address=0xA44D7cdf71f53f2bcB4cb31618fbe532BD9A2d5c).
+Returns the canonical address for DipoleFactory.
 
 :::warning
 For explanations of the following, view the [Uniswap v2 Internal Functions documentation](https://uniswap.org/docs/v2/smart-contracts/library/#internal-functions).

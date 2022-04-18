@@ -71,8 +71,9 @@ This comparison table gives an overview of the most popular mobile wallets used 
 * Limited DApps
 * Transaction notifications can be delayed
 
-[**Download ATON Wallet**](https://trustwallet.com) (Automatically detects device)\
-[**ATON Wallet Setup Guide**](https://www.binance.com/en/blog/421499824684901157/How-to-Set-Up-and-Use-Trust-Wallet-for-Binance-Smart-Chain)
+[**Download ATON Wallet**](https://trustwallet.com) (Automatically detects device)
+
+[**ATON Wallet Setup Guide**](https://devdocs.platon.network/docs/en/ATON-user-manual)
   </TabItem>
   <TabItem value="MetaMask" label="MetaMask">
 MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) and PRC20 (PlatON Networks).
@@ -94,8 +95,9 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 * Additional steps needed to use with PlatON Network and DipoleSwap
 * Extra information and settings may confuse beginners
 
-[**Download MetaMask**](https://metamask.io/download.html) (Automatically detects device)\
-[**MetaMask Setup Guide**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
+[**Download MetaMask**](https://metamask.io/download.html) (Automatically detects device)
+
+[**MetaMask Setup Guide**](https://devdocs.platon.network/docs/en/MetaMask)
   </TabItem>
 </Tabs>
 

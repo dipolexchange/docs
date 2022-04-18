@@ -39,10 +39,6 @@ Farming is more complicated and needs LP Tokens to earn LAT.
 
 We have a [Yield Farming guide](https://dipolexchange.github.io/docs/products/farm-guide) if you're interested in learning how to farm.
 
-## Where can I view the DipoleSwap roadmap?
-
-You can [view our to-do list here, but don't call it a roadmap](https://dipolexchange.github.io/docs/roadmap).
-
 ## How do I connect my wallet to PlatON Network and DipoleSwap?
 
 We have a [Connect Your Wallet to DipoleSwap guide](https://dipolexchange.github.io/docs/get-started/connection-guide) covering this in detail.
@@ -73,11 +69,7 @@ Learn about our [bug bounty and potential bounty payouts](https://dipolexchange.
 
 ## Where can I view smart contracts?
 
-Learn how to find smart contracts on our [Finding Contracts page](https://dipolexchange.github.io/docs/developers/smart-contracts/factory).
-
-## Why does it say I have no LAT balance?
-
-If you've already [transferred LAT into your PlatON wallet](https://dipolexchange.github.io/docs/get-started/prc20-guide) but still have this error, you're most likely not [connected to PlatON Network](https://dipolexchange.github.io/docs/get-started/connection-guide) within your wallet. Check your wallet's selected network and make sure you have PlatON Network selected.
+Learn how to find smart contracts on our [Finding Contracts page](https://dipolexchange.github.io/docs/developers/smart-contract/factory).
 
 ## I can't find an answer for my question. Where do I find an answer?
 
