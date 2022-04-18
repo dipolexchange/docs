@@ -3,7 +3,7 @@ id: using-diopleswap
 title: Using DiopleSwap without Centrallzed Exchange
 sidebar_position: 3
 ---
-## Using DipoleSwap without Centralized Exchanges
+
 ![](../images/cex.png)
 ###### You don't need an account with Binance, Coinbase, Kraken, Huobi, OKEx or any other centralized exchange to start using DipoleSwap!
 ---
