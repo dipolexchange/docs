@@ -11,12 +11,11 @@ This FAQ page answers some of the more commonly asked questions from the DipoleS
 See for yourself:
 
 * Check out these DipoleSwap security audits:
-    * Slowmist's security audit of DipoleSwap
+    * TrustLook's security audit of DipoleSwap
 * Transparent:
     * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.
     * Our contracts are verified on PlatScan so you know that what you see is what you get
 * Security best practices:
-    * The chefs use multisig for all contracts.
     * Our contracts’ time-lock gives you peace of mind.
 
 ## How can I stake LAT?

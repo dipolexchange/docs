@@ -14,7 +14,7 @@ Trade and Earn.
 ## Trade
 
 ### The people's choice
-DipoleSwap is the leading decentralized exchange on PlatON Network, with the highest trading volumes in the market (sources: 1 2).
+DipoleSwap is the leading decentralized exchange on PlatON Network, with the highest trading volumes in the market.
 
 ### Low fees
 
@@ -52,16 +52,15 @@ No farm? No problem. Even if your trading pair isn’t supported on the Farms pa
 See for yourself:
 
 + Check out these DipoleSwap security audits:
-    + Certik’s security audit of DipoleSwap and Certik's Shield insurance
-    + Slowmist's security audit of DipoleSwap
+    + TrustLook's security audit of DipoleSwap
     
 + Transparent:
     + We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.
-    + Our contracts are verified on PlatScan so you know that what you see is what you get: 1 2 3 4 5
+    + Our contracts are verified on PlatScan so you know that what you see is what you get
 
 + Security best practices:
-    + The chefs use multisig for all contracts.
     + Our contracts’ time-locks give you peace of mind.
 
 **Sounds like fun?**
+
 **Then get flipping!** 🐰 🥞
