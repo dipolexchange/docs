@@ -14,7 +14,7 @@ https://twitter.com/dipoleswap
 
 📰 **Blog (Medium)**
 ---
-
+https://dipoleswap.medium.com/
 
 
 
