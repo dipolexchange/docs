@@ -55,9 +55,9 @@ const config = {
         playgroundPosition: 'top',
       },
       algolia: {
-        appId: 'GJ1NIRQQM6',
-        apiKey: 'b737c2a261eb7f2cc9378c6edfdf2f2b',
-        indexName: 'dipoleswap',
+        appId: '72A34R3H6R',
+        apiKey: '40c30cd0b9290fa98942ae682881ddad',
+        indexName: 'dipolexchange',
         // resultsFooterComponent: null,
         contextualSearch: true,
         position: 'left'
