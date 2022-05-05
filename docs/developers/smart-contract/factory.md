@@ -9,6 +9,13 @@ DipoleSwap is based on Uniswap v2. Read the [Uniswap v2 documentation](https://u
 For more in-depth information on the core contract logic, read the [Uniswap v2 Core whitepaper](https://uniswap.org/whitepaper.pdf).
 :::
 
+## Contract info
+
+**Contract name:** DipoleFactory 
+**Contract address:** 0x74Dd7b2dC60070516f26AcC30a5C734D3c87B2c9
+
+View the [DipoleSwap: Factory v2 contract on PlatScan](https://scan.platon.network/address-detail?address=0x74Dd7b2dC60070516f26AcC30a5C734D3c87B2c9).
+
 ## Read functions
 
 ### getPair

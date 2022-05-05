@@ -9,6 +9,13 @@ DipoleSwap is based on Uniswap v2. Read the [Uniswap v2 documentation](https://d
 For more in-depth information on the core contract logic, read the [Uniswap v2 Core whitepaper](https://github.com/Uniswap/docs/blob/main/static/whitepaper.pdf).
 :::
 
+## Contract info
+
+**Contract name:** DipoleRouter
+**Contract address:** 0x78b674FBC75c43c3D91A35fFFA938268040C1990
+
+View the [DipoleSwap: Router v2 contract on PlatScan](https://scan.platon.network/address-detail?address=0x78b674FBC75c43c3D91A35fFFA938268040C1990).
+
 ## Read functions
 
 ### WETH
