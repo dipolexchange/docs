@@ -1,6 +1,6 @@
 ---
 id: connection-guide
-title: Connect Your Wallet to DiopleSwap
+title: Connect Your Wallet to DipoleSwap
 sidebar_position: 4
 ---
 

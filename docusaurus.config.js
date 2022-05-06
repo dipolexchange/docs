@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'PlatON',
-  tagline: 'PlatON',
+  title: 'DipoleSwap',
+  tagline: 'DipoleSwap',
   url: 'https://dipolexchange.github.io',
   baseUrl: '/docs/',
   onBrokenLinks: 'warn',

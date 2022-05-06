@@ -4,7 +4,7 @@ title: Customer Support
 sidebar_position: 4
 ---
 
-## There is NO customer support for DiopleSwap.
+## There is NO customer support for DipoleSwap.
 ![](../images/customer.png)
 If you're experiencing issues,
 
