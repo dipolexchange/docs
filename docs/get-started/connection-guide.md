@@ -57,7 +57,7 @@ To connect MetaMask to DipoleSwap follow the steps below.
 
 ![](../images/browser.png)
 
-7. Type "DipoleSwap" into the search field and start the search. The top result will be the DipoleSwap exchange. Tap to enter it.
+7. Type "https://dipoleswap.exchange/" into the search field and tap to enter it.
 
 8. You wallet will ask you to connect. Tap **Connect** to connect to DipoleSwap.
 
