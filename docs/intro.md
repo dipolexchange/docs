@@ -34,14 +34,14 @@ Earn LAT and other tokens for free with super high interest rates.
 
 :::
 
-### Earn tokens with Syrup Pools
+### Earn tokens with Pools
 
 Stake LAT, earn free tokens. It’s really that easy.
 LAT holders right now are earning tens of millions of USD worth of free tokens each week from major projects. New projects join the party frequently, so you can earn more, for even longer.
 
 ### Earn LAT with Yield Farms
 
-Stake LP tokens, earn LAT. You take on a little more exposure to market fluctuations than with the Syrup Pools, but can earn higher APR to offset the risk.
+Stake LP tokens, earn LAT. You take on a little more exposure to market fluctuations than with the Pools, but can earn higher APR to offset the risk.
 
 ### Earn Trading Fees
 

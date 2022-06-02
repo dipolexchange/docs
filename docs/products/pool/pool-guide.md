@@ -1,16 +1,16 @@
 ---
-id: syrup-pool-guide
-title: How to Stake in Syrup Pools
+id: pool-guide
+title: How to Stake in Pools
 sidebar_position: 1
 ---
 
-# How to Stake in Syrup Pools
+# How to Stake in Pools
 
-Staking in [Syrup Pools](https://dipolexchange.github.io/doc/products/syrup-pool) lets you earn LAT or other tokens while you sleep!
+Staking in Pools lets you earn LAT or other tokens while you sleep!
 
 It's simpler than farming with DipoleSwap's Yield Farms because unlike the Farms, you only need to stake **one token** to start earning: usually LAT.
 
-## **Getting started with Syrup Pool staking**
+## **Getting started with Pool staking**
 
 1\. Go to the Pools page [here](https://dipoleswap.exchange/pools).
 
@@ -24,11 +24,11 @@ It's simpler than farming with DipoleSwap's Yield Farms because unlike the Farms
 
 ![](../../images/connect-wallet-list.jpg#center)
 
-4\. Choose which Syrup Pool you want to stake in.
+4\. Choose which Pool you want to stake in.
 
 ![](../../images/pool-list.jpg#center)
 
-Syrup Pools let you stake your LAT to earn other tokens. Make sure you check them out.
+Pools let you stake your LAT to earn other tokens. Make sure you check them out.
 
 ***
 
@@ -44,13 +44,13 @@ Syrup Pools let you stake your LAT to earn other tokens. Make sure you check the
 
 9\. The Confirm button will change to "Confirming", then once the transaction is successful, you’ll see your staked amount change and the button will change again.
 
-10\. You should now be able to see details on your Syrup Pool.
+10\. You should now be able to see details on your Pool.
 
 ![](../../images/pool-staked-detail.jpg#center)
 
 ### **Adding and removing LAT from a pool**
 
-You can easily add more LAT to a Syrup Pool, or move some LAT to a more profitable pool. Here’s how you can move your staked LAT.
+You can easily add more LAT to a Pool, or move some LAT to a more profitable pool. Here’s how you can move your staked LAT.
 
 1\. Click the **-** to take some LAT out of a pool, or the **+** to add more to the pool.
 

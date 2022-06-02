@@ -20,23 +20,23 @@ See for yourself:
 
 ## How can I stake LAT?
 
-You can stake your LAT in DipoleSwap Syrup Pools. Visit the [Syrup Pools page](https://dipoleswap.exchange/pools).
+You can stake your LAT in DipoleSwap Pools. Visit the [Pools page](https://dipoleswap.exchange/pools).
 
-Read our [How to Stake in Syrup Pools guide](https://dipolexchange.github.io/docs/products/syrup-pool/syrup-pool-guide) if you'd like a hand getting started with staking.
+Read our [How to Stake in Pools guide](https://dipolexchange.github.io/docs/products/pool/pool-guide) if you'd like a hand getting started with staking.
 
 ## What is the difference between staking and farming?
 
-Staking in Syrup Pools and farming with Yield Farming are both ways to earn more LAT by supporting DipoleSwap.
+Staking in Pools and farming with Yield Farming are both ways to earn more LAT by supporting DipoleSwap.
 
-Staking only needs some LAT to be added to a Syrup Pool to earn other tokens.
-[Learn more about Syrup Pool staking.](https://dipolexchange.github.io/docs/products/syrup-pool)
+Staking only needs some LAT to be added to a Pool to earn other tokens.
+[Learn more about Pool staking.](https://dipolexchange.github.io/docs/products/pool/pool-guide)
 
 Farming is more complicated and needs LP Tokens to earn LAT.
-[Learn more about Yield Farming.](https://dipolexchange.github.io/docs/products/farm-guide)
+[Learn more about Yield Farming.](https://dipolexchange.github.io/docs/products/yield-farming/farm-guide)
 
 ## How do I farm?
 
-We have a [Yield Farming guide](https://dipolexchange.github.io/docs/products/farm-guide) if you're interested in learning how to farm.
+We have a [Yield Farming guide](https://dipolexchange.github.io/docs/products/yield-farming/farm-guide) if you're interested in learning how to farm.
 
 ## How do I connect my wallet to PlatON Network and DipoleSwap?
 
